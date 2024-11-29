@@ -1,1 +1,1 @@
-# Data-Science-Internship
+# Internship Projects
