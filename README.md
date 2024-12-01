@@ -10,8 +10,8 @@ This project focuses on building a machine learning model to predict heart disea
 A publicly available dataset from Kaggle or the UCI Machine Learning Repository.
 
 Tech Stack:
-*>Python
-*>scikit-learn
+>*Python
+>*scikit-learn
 Pandas
 NumPy
 Matplotlib
