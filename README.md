@@ -10,21 +10,25 @@ This project focuses on building a machine learning model to predict heart disea
 A publicly available dataset from Kaggle or the UCI Machine Learning Repository.
 
 Tech Stack:
->*Python
->*scikit-learn
-Pandas
-NumPy
-Matplotlib
-Seaborn
+>Python
+>scikit-learn
+>Pandas
+>NumPy
+>Matplotlib
+>Seaborn
 
 Machine Learning Algorithms:
-SVM
-Decision Tree
-Random Forest
-XGBoost
+>SVM
+>Decision Tree
+>Random Forest
+>XGBoost
 
 Key Metrics:
-Accuracy
-Precision
-Recall
-F1-Score
+>Accuracy
+>Precision
+>Recall
+>F1-Score
+
+# `📜 How to Run`
+python app.py
+
