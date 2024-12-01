@@ -30,5 +30,7 @@ Key Metrics:
 >F1-Score
 
 # `📜 How to Run`
+```bash
 python app.py
+```
 
