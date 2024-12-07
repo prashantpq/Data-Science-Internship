@@ -35,9 +35,11 @@ python app.py
 ```
 
 
+
 # `Week 2: Music Recommendation System`
 
 `Project Description`
+
 The system leverages machine learning and data analysis techniques to provide personalized music recommendations to users based on their listening preferences and historical data.
 
 # `🚀 Key Highlights`
