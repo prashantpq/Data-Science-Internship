@@ -1,4 +1,3 @@
-
 from sklearn import preprocessing 
 import streamlit as st
 import pandas as pd
@@ -9,11 +8,11 @@ import pickle
 
 filename = 'final_model.sav'
 loaded_model = pickle.load(open(filename, 'rb'))
-df = pd.read_csv("Clustered_Customer_Data.csv")
+df = pd.read_csv("Data/Clustered_Customer_Data.csv")
 # st.set_option('deprecation.showPyplotGlobalUse', False)
 
 st.markdown('<style>body{background-color: Blue;}</style>',unsafe_allow_html=True)
-st.title("Prediction")
+st.title("Prediction of Cluster")
 
 with st.form("my_form"):
     Attrition_Flag=st.number_input(label='Attrition_Flag',step=0.001,format="%.6f")
