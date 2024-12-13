@@ -65,5 +65,38 @@ streamlit run app.py
 
 
 
+# `Week 3: Customer Segmentation`
+
+`Project Description`
+
+This project focuses on analyzing customer data to uncover meaningful insights and segment customers into distinct groups based on their purchasing behaviors and characteristics. Customer segmentation helps businesses design targeted marketing strategies, improve customer satisfaction, and optimize resource allocation.
+
+The project leverages machine learning techniques, including clustering algorithms such as K-Means, to classify customers into various segments. The results are visualized through an interactive Streamlit web application, allowing users to explore and understand the segmentation outputs.
+
+# `🚀 Key Highlights`
+
+`Dataset:`
+A publicly available dataset from zenodo.org
+
+Tech Stack:
+>Python
+>scikit-learn
+>Pandas
+>NumPy
+>Seaborn
+>plotly
+>Streamlit
+
+Machine Learning Algorithms:
+>K-Means Clustering
+>Decision Tree
+
+# `📜 How to Run`
+```bash
+streamlit run app.py
+```
+
+
+
 
 
