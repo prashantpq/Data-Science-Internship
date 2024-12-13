@@ -15,7 +15,7 @@ st.markdown('<style>body{background-color: Blue;}</style>',unsafe_allow_html=Tru
 st.title("Prediction of Cluster")
 
 with st.form("my_form"):
-    Attrition_Flag=st.number_input(label='Attrition_Flag',step=0.001,format="%.6f")
+    Attrition_Flag=st.number_input(label='Attrition Flag',step=0.001,format="%.6f")
     Customer_Age=st.number_input(label='Customer Age',step=0.001,format="%.6f")
     Gender=st.number_input(label='Gender',step=0.01,format="%.2f")
     Dependent_count=st.number_input(label='Dependent Count',step=0.01,format="%.2f")
