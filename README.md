@@ -131,3 +131,11 @@ Machine Learning Algorithms:
 git clone https://github.com/yourusername/Bank-Customer-Churn-Prediction.git
 cd Bank-Customer-Churn-Prediction
 ```
+# Install the required dependencies:
+```bash
+pip install -r requirements.txt
+```
+# streamlit run app.py
+```bash
+streamlit run app.py
+```
