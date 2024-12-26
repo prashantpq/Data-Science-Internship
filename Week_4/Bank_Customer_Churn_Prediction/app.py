@@ -10,7 +10,7 @@ if not hasattr(loaded_model, 'predict'):
     st.stop()
 
 # Streamlit app UI
-st.title("Churn Prediction")
+st.title("Bank Customer Churn Prediction")
 
 with st.form("my_form"):
     gender_input = st.radio("Select Gender", options=["Male", "Female"])
