@@ -29,10 +29,12 @@ Key Metrics:
 >Recall
 >F1-Score
 
-# `📜 How to Run`
-```bash
-python app.py
-```
+# `🧪 Usage Instructions`
+
+
+
+
+
 
 
 
@@ -98,5 +100,34 @@ streamlit run app.py
 
 
 
+# `Week 4: Bank Customer Churn Prediction`
 
+`Project Description`
 
+This project focuses on predicting whether a bank customer is likely to churn (leave the bank) based on features like gender, age, balance, active membership status, and estimated salary. Customer churn is a critical metric for any organization, and developing a predictive model can significantly enhance customer retention strategies.
+
+# `🚀 Key Highlights`
+
+`Dataset:`
+A publicly available dataset from kaggle.
+
+Tech Stack:
+>Python
+>scikit-learn
+>Pandas
+>NumPy
+>Seaborn
+>Streamlit
+
+Machine Learning Algorithms:
+>Logistic Regression
+>Random Forest
+>XG Boost
+
+# `🧪 Usage Instructions`
+
+# Clone the repository:
+```bash
+git clone https://github.com/yourusername/Bank-Customer-Churn-Prediction.git
+cd Bank-Customer-Churn-Prediction
+```
