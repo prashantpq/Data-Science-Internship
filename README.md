@@ -29,12 +29,10 @@ Key Metrics:
 >Recall
 >F1-Score
 
-# `🧪 Usage Instructions`
-
-
-
-
-
+# `📜 How to Run`
+```bash
+python app.py
+```
 
 
 
@@ -124,18 +122,7 @@ Machine Learning Algorithms:
 >Random Forest
 >XG Boost
 
-# `🧪 Usage Instructions`
-
-# Clone the repository:
-```bash
-git clone https://github.com/yourusername/Bank-Customer-Churn-Prediction.git
-cd Bank-Customer-Churn-Prediction
-```
-# Install the required dependencies:
-```bash
-pip install -r requirements.txt
-```
-# streamlit run app.py
+# `📜 How to Run`
 ```bash
 streamlit run app.py
 ```
